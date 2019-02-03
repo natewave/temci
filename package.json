@@ -1,10 +1,10 @@
 {
-  "name": "asyncrypt",
+  "name": "temci",
   "version": "0.0.1",
   "description": "Send cryptocurrency in the future",
   "repository": {
     "type": "git",
-    "url": "https://github.com/natewave/asyncrypt"
+    "url": "https://github.com/natewave/temci"
   },
   "author": {
     "name": "Nizar S.",
