@@ -1,0 +1,7 @@
+.nrepl-port
+.lein-failures
+node_modules
+.DS_Store
+.shadow-cljs/
+public/js/cljs-runtime/
+public/js/manifest.edn
